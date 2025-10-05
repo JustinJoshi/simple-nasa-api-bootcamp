@@ -20,3 +20,19 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+nasa api
+
+
+How It's Made:
+
+Tech used: HTML, CSS, JavaScript
+
+I used the nasa picture of the day api to fetch a picture for every day. I used a date input to allow the user to enter a date and used that date to interact with the nasa api url and get the picture for that date. If there was a video. i put some simple conditional logic to insert an iframe
+
+Optimizations
+
+make it prettier
+
+Lessons Learned:
+
+i learned how to insert an iframe, i normally have not worked with them before.
